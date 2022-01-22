@@ -1,0 +1,4 @@
+build/
+dist/
+pyguru-gui.egg-info/
+pyguru_gui.egg-info/
